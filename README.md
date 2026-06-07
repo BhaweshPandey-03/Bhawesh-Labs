@@ -13,7 +13,7 @@ This repository is the v1 website for Bhawesh Labs. The first phase focuses on r
 - Open-source projects
 
 ## Links
-
+- Live: https://bhawesh-labs.vercel.app/
 - GitHub: https://github.com/BhaweshPandey-03
 - LinkedIn: https://www.linkedin.com/in/bhawesh-pandey/
 - Email: bhaweshpandey0310@gmail.com
